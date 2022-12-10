@@ -1,2 +1,1 @@
-# Discord-Nuke
-Um nuke para atacar um servidor
+# NUKE PARA ATACAR SERVIDOR
