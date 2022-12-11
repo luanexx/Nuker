@@ -1,7 +1,7 @@
 import discord
 import os
 import colorama
-from dsicord.ext import commands
+from discord.ext import commands
 from colorama import Fore, Back, Style, init
 init()
 
